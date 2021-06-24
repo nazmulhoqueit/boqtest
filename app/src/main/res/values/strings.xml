@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BOQtest</string>
+    <string name="photo_collection">Flicker Photos</string>
+    <string name="inline_error_message_server">Something went wrong. Please try again.</string>
+    <string name="inline_error_title_network">No network</string>
+    <string name="inline_error_message_network">Check the network connection for your device, and try again.</string>
+    <string name="button_try_again">Try again</string>
+    <string name="message">Message</string>
+    <string name="ok">Ok</string>
+    <string name="no_internet">No Internet connection, Please check your internet</string>
+    <string name="message_internet">Internet error</string>
+    <string name="snackbar_message_error_network">No network. Check the network connection for your device, and try again.</string>
+    <string name="snackbar_message_error_server">Oops! Something went wrong. Please try again.</string>
+    <string name="snackbar_message_unauthorize">Unable to authorize.</string>
+</resources>
