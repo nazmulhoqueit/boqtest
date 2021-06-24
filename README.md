@@ -22,6 +22,8 @@ MVP:
 
 MVP design patterns has been implemented for the architecture of this project. MVP (Model View Presenter) pattern is a derivative from the well known MVC (Model View Controller), and one of the most popular patterns to organize the presentation layer in Android Applications.
 
+<img width="531" alt="Screen Shot 2021-03-21 at 4 01 08 pm" src="https://user-images.githubusercontent.com/10892760/111898117-1fd9ad00-8a78-11eb-8fce-41093af43342.png">
+
 * Picasso (For displaying images)
 
 * Dragger 2: (For Dependency Injection)
